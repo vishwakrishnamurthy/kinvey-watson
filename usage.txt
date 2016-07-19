@@ -1,0 +1,16 @@
+
+
+Usage: 
+  node kinvey-watson.js <service> [inputs]
+
+node kinvey-watson.js alchemyLanguage <text-to-analyze>
+node kinvey-watson.js alchemyVision <path-to-input-image-file>
+node kinvey-watson.js alchemyDataNews <start> <end>
+node kinvey-watson.js toneAnalyzer <text to analyze>
+node kinvey-watson.js tradeoffAnalytics <path-to-file>
+node kinvey-watson.js speechToText <path-to-wav-file>
+node kinvey-watson.js textToSpeech <text>
+node kinvey-watson.js languageTranslation <text>
+node kinvey-watson.js documentConversion <path-to-input-file>
+node kinvey-watson.js visualRecognition <path-to-input-image-file> 
+

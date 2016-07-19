@@ -1,0 +1,13 @@
+{
+  "name": "watson",
+  "version": "0.1.0",
+  "description": "Kinvey integration with IBM Watson services",
+  "main": "kinvey-watson.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "'",
+  "dependencies": {
+    "watson-developer-cloud": "1.12.0"
+  }
+}
